@@ -1,0 +1,49 @@
+<form [formGroup]="formDetalle" id="formDetalle" class="example-form" #detalle="ngForm" (ngSubmit)="agregarDatos(detalle)" novalidate>
+  <h3 class="first" style="margin-top: 30px">Informacion Pokemon</h3>
+  <div class="ui-g ui-fluid">
+    <div class="ui-g-6 ui-md-4" style="margin-right: 10px">
+      <div class="ui-inputgroup">
+        <span class="ui-inputgroup"></span>
+        <input type="text" pInputText placeholder="Nombre Pokemon" formControlName="nombrePokemon">
+      </div>
+    </div>
+    <div class="ui-g-6 ui-md-4" style="margin-right: 10px">
+      <div class="ui-inputgroup">
+        <input type="text" pInputText placeholder="Numero Pokemon" formControlName="numeroPokemon">
+      </div>
+    </div>
+
+    <div class="ui-g-6 ui-md-4" style="margin-right: 10px">
+      <div class="ui-inputgroup">
+        <input type="text" pInputText placeholder="Poder especial uno" formControlName="poderUno">
+      </div>
+    </div>
+    <div class="ui-g-6 ui-md-4" style="margin-right: 10px">
+      <div class="ui-inputgroup">
+        <input type="text" pInputText placeholder="Poder especial dos" formControlName="poderDos">
+      </div>
+    </div>
+    <div class="ui-g-6 ui-md-4" style="margin-right: 10px">
+      <div class="ui-inputgroup">
+        <input type="text" pInputText placeholder="Fecha de captura" formControlName="fechaCaptura">
+      </div>
+    </div>
+
+    <div class="ui-g-6 ui-md-4" style="margin-right: 10px">
+      <div class="ui-inputgroup">
+        <input type="text" pInputText placeholder="Nivel" formControlName="nivel">
+      </div>
+    </div>
+
+    <div class="ui-g-6 ui-md-4" style="margin-right: 10px">
+      <div class="ui-inputgroup">
+        <input type="text" pInputText placeholder="Id Maestro" formControlName="maestroID">
+      </div>
+    </div>
+    <button [disabled]="formDetalle.invalid" pButton type="submit" label="Guardar" style="width: 70%"></button>
+  </div>
+</form>
+
+<button id="botonLimpiarDetalle" pButton type="button" label="Limpiar" onclick="document.getElementById('formDetalle').reset()" mat-button style="width: 70%; margin: 10px 0px"></button>
+
+
