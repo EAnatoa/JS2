@@ -1,5 +1,5 @@
 <div id="tarjeta">
-<p-card class="card" title="Tarjeta Estudiante" [style]="{width: '100%'}" style="margin-left: 20px; margin-top: 30px" *ngFor="let info of tarjeta">
+<p-card class="card" title="Tarjeta Maestro" [style]="{width: '100%'}" style="margin-left: 20px; margin-top: 30px" *ngFor="let info of tarjeta">
   <div >
     <label style="font-weight: bold">Nombre:</label>
     {{info.nombre}}
@@ -10,11 +10,11 @@
     <label style="font-weight: bold">Fecha de nacimiento:</label>
     {{info.fechaNacimiento | date}}
     <br>
-    <label style="font-weight: bold">Semestre Actual:</label>
-    {{info.semestreActual}}
+    <label style="font-weight: bold">Numero de Medallas:</label>
+    {{info.numeroMedallas}}
     <br>
-    <label id="labelGraduado" style="font-weight: bold">Graduado:</label>
-    {{cambiarBolean(info.graduado)}}
+    <label id="labelGraduado" style="font-weight: bold">Es el actual campeon:</label>
+    {{cambiarBolean(info.campeon)}}
   </div>
 </p-card>
 </div>
