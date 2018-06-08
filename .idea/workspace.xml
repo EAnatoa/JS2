@@ -14,47 +14,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="tabla-detalle.component.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/examen/src/app/tabla-detalle/tabla-detalle.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="29" column="6" lean-forward="true" selection-end-line="29" selection-end-column="6" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h3#0;n#ng-template#0;n#p-table#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/examen/src/app/app.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="carrusel.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examen/src/app/carrusel/carrusel.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="255">
               <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="carrusel.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/examen/src/app/carrusel/carrusel.component.ts">
+      <file leaf-file-name="tabla-detalle.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examen/src/app/tabla-detalle/tabla-detalle.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+            <state relative-caret-position="306">
+              <caret line="18" column="66" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
               <folding>
-                <element signature="e#0#57#0" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h3#0;n#ng-template#0;n#p-table#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#th#0;n#tr#0;n#ng-template#0;n#p-table#0;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -63,8 +40,8 @@
       <file leaf-file-name="tarjeta.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examen/src/app/tarjeta/tarjeta.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+            <state relative-caret-position="323">
+              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
               <folding>
                 <element signature="n#style#0;n#p-card#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#label#0;n#div#0;n#p-card#0;n#div#0;n#!!top" expanded="true" />
@@ -78,8 +55,8 @@
       <file leaf-file-name="cabecera.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examen/src/app/cabecera/cabecera.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="663">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
               <folding>
                 <element signature="n#style#0;n#button#0;n#form#0;n#!!top" expanded="true" />
               </folding>
@@ -87,13 +64,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cabecera.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/examen/src/app/cabecera/cabecera.component.ts">
+      <file leaf-file-name="tarjeta.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examen/src/app/tarjeta/tarjeta.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="96" column="3" selection-start-line="96" selection-start-column="3" selection-end-line="96" selection-end-column="3" />
+            <state relative-caret-position="272">
+              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
               <folding>
-                <element signature="e#0#56#0" expanded="true" />
+                <element signature="e#0#50#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -102,8 +79,8 @@
       <file leaf-file-name="detalle.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examen/src/app/detalle/detalle.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="60" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
+            <state relative-caret-position="286">
+              <caret line="45" column="112" lean-forward="true" selection-start-line="45" selection-start-column="2" selection-end-line="45" selection-end-column="112" />
               <folding>
                 <element signature="n#style#0;n#h3#0;n#form#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
@@ -120,22 +97,50 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cabecera.component.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/examen/src/app/cabecera/cabecera.component.css">
+      <file leaf-file-name="detalle.component.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/examen/src/app/detalle/detalle.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="-118">
+              <caret line="1" column="84" selection-start-line="1" selection-end-line="1" selection-end-column="84" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="detalle.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/examen/src/app/detalle/detalle.component.ts">
+      <file leaf-file-name="lista-maestro.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examen/src/app/lista-maestro/lista-maestro.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1105">
-              <caret line="65" column="38" selection-start-line="65" selection-start-column="38" selection-end-line="65" selection-end-column="38" />
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
               <folding>
-                <element signature="e#0#48#0" expanded="true" />
+                <element signature="e#0#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tabla-detalle.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examen/src/app/tabla-detalle/tabla-detalle.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lista-maestro.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examen/src/app/lista-maestro/lista-maestro.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="118" selection-start-line="8" selection-start-column="118" selection-end-line="8" selection-end-column="118" />
+              <folding>
+                <element signature="n#style#0;n#h3#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -154,21 +159,21 @@
         <option value="$PROJECT_DIR$/examen/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/examen/src/app/lista-alumnos/lista-alumnos.component.ts" />
         <option value="$PROJECT_DIR$/examen/src/app/tarjeta/tarjeta.component.ts" />
-        <option value="$PROJECT_DIR$/examen/src/app/tabla-detalle/tabla-detalle.component.ts" />
         <option value="$PROJECT_DIR$/examen/src/app/tabla-detalle/tabla-detalle.component.css" />
         <option value="$PROJECT_DIR$/examen/src/app/carrusel/carrusel.component.html" />
-        <option value="$PROJECT_DIR$/examen/src/app/carrusel/carrusel.component.ts" />
         <option value="$PROJECT_DIR$/examen/src/app/detalle/detalle.component.ts" />
-        <option value="$PROJECT_DIR$/examen/src/app/lista-maestro/lista-maestro.component.html" />
-        <option value="$PROJECT_DIR$/examen/src/app/lista-maestro/lista-maestro.component.ts" />
         <option value="$PROJECT_DIR$/examen/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/examen/src/app/cabecera/cabecera.component.css" />
         <option value="$PROJECT_DIR$/examen/src/app/tarjeta/tarjeta.component.html" />
-        <option value="$PROJECT_DIR$/examen/src/app/tabla-detalle/tabla-detalle.component.html" />
         <option value="$PROJECT_DIR$/examen/src/app/cabecera/cabecera.component.ts" />
         <option value="$PROJECT_DIR$/examen/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/examen/src/app/detalle/detalle.component.html" />
         <option value="$PROJECT_DIR$/examen/src/app/cabecera/cabecera.component.html" />
+        <option value="$PROJECT_DIR$/examen/src/app/tabla-detalle/tabla-detalle.component.html" />
+        <option value="$PROJECT_DIR$/examen/src/app/tabla-detalle/tabla-detalle.component.ts" />
+        <option value="$PROJECT_DIR$/examen/src/app/carrusel/carrusel.component.ts" />
+        <option value="$PROJECT_DIR$/examen/src/app/lista-maestro/lista-maestro.component.html" />
+        <option value="$PROJECT_DIR$/examen/src/app/lista-maestro/lista-maestro.component.ts" />
       </list>
     </option>
   </component>
@@ -321,12 +326,13 @@
       <workItem from="1528208039930" duration="5189000" />
       <workItem from="1528220366047" duration="2447000" />
       <workItem from="1528223598560" duration="4052000" />
-      <workItem from="1528227701688" duration="303000" />
+      <workItem from="1528227701688" duration="4557000" />
+      <workItem from="1528488209268" duration="573000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31973000" />
+    <option name="totallyTimeSpent" value="36800000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -359,15 +365,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/examen/src/app/tarjeta/tarjeta.component.html">
+    <entry file="file://$PROJECT_DIR$/examen/src/app/lista-maestro/lista-maestro.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        <state relative-caret-position="561">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
           <folding>
-            <element signature="n#style#0;n#p-card#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#div#0;n#p-card#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#1;n#div#0;n#p-card#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#4;n#div#0;n#p-card#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#0#55#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -432,7 +435,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/examen/src/app/lista-maestro/lista-maestro.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/examen/src/app/lista-maestro/lista-maestro.component.ts">
       <provider selected="true" editor-type-id="text-editor">
@@ -491,6 +500,7 @@
           <folding>
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h3#0;n#ng-template#0;n#p-table#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#tr#0;n#ng-template#0;n#p-table#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -589,6 +599,7 @@
           <folding>
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h3#0;n#ng-template#0;n#p-table#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#tr#0;n#ng-template#0;n#p-table#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -601,6 +612,8 @@
             <element signature="n#style#0;n#h3#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -685,35 +698,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examen/src/app/tarjeta/tarjeta.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examen/src/app/servicio-maestro/servicio-maestro.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examen/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examen/src/app/lista-maestro/lista-maestro.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/examen/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -728,67 +712,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examen/src/app/lista-maestro/lista-maestro.component.html">
+    <entry file="file://$PROJECT_DIR$/examen/src/app/cabecera/cabecera.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examen/src/app/lista-maestro/lista-maestro.component.spec.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="80" selection-start-column="80" selection-end-column="80" />
           <folding>
-            <element signature="n#style#0;n#h3#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#0#73#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examen/src/app/lista-maestro/lista-maestro.component.ts">
+    <entry file="file://$PROJECT_DIR$/examen/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-213">
-          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        <state relative-caret-position="357">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examen/src/app/cabecera/cabecera.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1649">
+          <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
           <folding>
-            <element signature="e#0#55#0" expanded="true" />
+            <element signature="e#0#56#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examen/src/app/tabla-detalle/tabla-detalle.component.ts">
+    <entry file="file://$PROJECT_DIR$/examen/src/app/servicio-maestro/servicio-maestro.service.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
+        <state relative-caret-position="-332">
           <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examen/src/app/tarjeta/tarjeta.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-          <folding>
-            <element signature="n#style#0;n#p-card#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#div#0;n#p-card#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#1;n#div#0;n#p-card#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#4;n#div#0;n#p-card#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#0#43#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/examen/src/app/carrusel/carrusel.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        <state relative-caret-position="280">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="e#0#57#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examen/src/app/detalle/detalle.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1105">
-          <caret line="65" column="38" selection-start-line="65" selection-start-column="38" selection-end-line="65" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#48#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -803,10 +774,96 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/examen/src/app/carrusel/carrusel.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examen/src/app/tabla-detalle/tabla-detalle.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examen/src/app/cabecera/cabecera.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#form#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examen/src/app/tabla-detalle/tabla-detalle.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="66" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#ng-template#0;n#p-table#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#tr#0;n#ng-template#0;n#p-table#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examen/src/app/tarjeta/tarjeta.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#p-card#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#div#0;n#p-card#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#1;n#div#0;n#p-card#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#4;n#div#0;n#p-card#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examen/src/app/tarjeta/tarjeta.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examen/src/app/lista-maestro/lista-maestro.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="118" selection-start-line="8" selection-start-column="118" selection-end-line="8" selection-end-column="118" />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examen/src/app/lista-maestro/lista-maestro.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/examen/src/app/detalle/detalle.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="60" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
+        <state relative-caret-position="286">
+          <caret line="45" column="112" lean-forward="true" selection-start-line="45" selection-start-column="2" selection-end-line="45" selection-end-column="112" />
           <folding>
             <element signature="n#style#0;n#h3#0;n#form#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
@@ -822,47 +879,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examen/src/app/cabecera/cabecera.component.css">
+    <entry file="file://$PROJECT_DIR$/examen/src/app/detalle/detalle.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examen/src/app/carrusel/carrusel.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examen/src/app/cabecera/cabecera.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="-118">
+          <caret line="1" column="84" selection-start-line="1" selection-end-line="1" selection-end-column="84" />
           <folding>
-            <element signature="n#style#0;n#button#0;n#form#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examen/src/app/cabecera/cabecera.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="96" column="3" selection-start-line="96" selection-start-column="3" selection-end-line="96" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#56#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examen/src/app/tabla-detalle/tabla-detalle.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="29" column="6" lean-forward="true" selection-end-line="29" selection-end-column="6" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h3#0;n#ng-template#0;n#p-table#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#0#48#0" expanded="true" />
           </folding>
         </state>
       </provider>

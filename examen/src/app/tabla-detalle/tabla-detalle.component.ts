@@ -26,6 +26,7 @@ export class TablaDetalleComponent implements OnInit {
   imprimir(){
 
     console.log(this.datosTabla)
+
   }
 
   cambiarBolean(estado) {

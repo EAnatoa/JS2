@@ -1,7 +1,6 @@
 import {Component, OnInit, Input} from '@angular/core';
 import {ServicioMaestroService} from "../servicio-maestro/servicio-maestro.service";
 
-
 @Component({
   selector: 'app-lista-alumnos',
   templateUrl: './lista-maestro.component.html',
@@ -12,6 +11,7 @@ export class ListaMaestroComponent implements OnInit {
   mensaje = [];
 
   maestroTarjeta = [];
+  maestroTabla = [];
 
   constructor(private data: ServicioMaestroService
   ) {
@@ -31,6 +31,8 @@ export class ListaMaestroComponent implements OnInit {
     this.mostrarElementos()
     /*    console.log(this.alumnoTarjeta)*/
   }
+
+
 
   mostrarElementos() {
 

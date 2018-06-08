@@ -5,7 +5,8 @@
         <div class="card-body">
           <h5 class="card-title">{{info.nombre}}</h5>
           <h6 class="card-subtitle mb-2 text-muted">{{info.apellido}}</h6>
-          <button type="button" class="btn btn-primary" (click)="mandarDatos(indice)">Tarjeta</button>
+          <button type="button" class="btn btn-second" (click)="mandarDatos(indice)">Seleccionar</button>
+          <button [disabled]="formDetalle.invalid" pButton type="submit" label="Guardar" style="width: 100%"></button>
         </div>
       </div>
     </div>

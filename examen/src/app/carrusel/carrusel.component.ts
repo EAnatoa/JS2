@@ -19,17 +19,6 @@ export class CarruselComponent implements OnInit {
 
   }
 
-  escuela(seleccion){
 
-    if(seleccion == 1){
-
-      return "https://pm1.narvii.com/6307/46c1f6514f660679d0d634136f2dfd3aa89925e0_hq.jpg"
-
-    }else{
-
-      return "https://pm1.narvii.com/6307/a8ed611fe49d7384aea1984aa360fca14b861779_hq.jpg"
-    }
-
-  }
 
 }
